@@ -1,20 +1,21 @@
 ## Hi, I'm Luis Rocha 👋
 
-[<img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1454ba" />](https://www.facebook.com)
+
+## About me
 
 
-### About me
-<!--
-**luisrocha021231/luisrocha021231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Languages + Frameworks + Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Spring Boot](https://img.shields.io/badge/SpringBoot-0ac934?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0c4fb3?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/Postgres-3b93f7?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+
+
+## Conect with me
+
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=f037c8" />](https://www.instagram.com)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0c4fb3" />](https://www.linkedin.com)
