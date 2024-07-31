@@ -21,6 +21,31 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=f037c8" />](https://www.instagram.com)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0c4fb3" />](https://www.linkedin.com)
 
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">(Java - Spring Boot + Docker + PostgreSQL) API Rest</h3>
+<div align="center">
+<a href="https://github.com/luisrocha021231/-Java---Spring-Boot-PostgreSQL-Docker-API-Rest" target="_blank"><img src="https://img.freepik.com/free-psd/abstract-background-with-rocket_23-2149085911.jpg?w=1380&t=st=1722384649~exp=1722385249~hmac=33f9168377b5887db7397ab937020a9e16e05ea6b00bdd217569be785cf0d206" width="400" alt="API REST"></a>
+<p>
+<a href="https://github.com/luisrocha021231/-Java---Spring-Boot-PostgreSQL-Docker-API-Rest" target="_blank">
+<img src="https://img.shields.io/badge/CODE-07bdf0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Small REST API implemented with Spring Boot that allows performing CRUD operations, connected to a PostgreSQL database and deployed in a Docker container.</p>
+</div>
+                                                                                      
+</td>
+                                               
+</table>                                                                                 
+</div>
+<br>
+                                                                                 
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
