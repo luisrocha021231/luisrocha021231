@@ -38,6 +38,20 @@
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+<h3 align="center">Project that allows you to monitor and control a simulated oven through a mobile app using Wi-Fi</h3>
+<div align="center">
+<a href="https://github.com/luisrocha021231/computingproject" target="_blank"><img src="https://img.freepik.com/free-psd/abstract-background-with-rocket_23-2149085911.jpg?w=1380&t=st=1722384649~exp=1722385249~hmac=33f9168377b5887db7397ab937020a9e16e05ea6b00bdd217569be785cf0d206" width="400" alt="API REST"></a>
+<p>
+<a href="https://github.com/luisrocha021231/computingproject" target="_blank">
+<img src="https://img.shields.io/badge/CODE-07bdf0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>The API was developed in Springboot, using a Postgres database and deployed in Docker containers. The frontend or mobile app was developed in react native.</p>
+</div>
+                                                                                      
+</td>
                                                
 </table>                                                                                 
 </div>
