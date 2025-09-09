@@ -103,7 +103,7 @@ I’m a backend developer passionate about **robust architectures**, **DevOps**,
 ## ⛏️ GitHub Contributions
 <div align="center">
 
-![GitHub Snake](https://github.com/luisrocha021231/luisrocha021231/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/luisrocha021231/luisrocha021231/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
